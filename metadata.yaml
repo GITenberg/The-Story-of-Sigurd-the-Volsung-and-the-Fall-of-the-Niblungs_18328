@@ -1,0 +1,30 @@
+_repo: The-Story-of-Sigurd-the-Volsung-and-the-Fall-of-the-Niblungs_18328
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18328'
+  lccn: 04013922
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Völsunga saga'
+- !lcc 'PR'
+title: The Story of Sigurd the Volsung and the Fall of the Niblungs
+url: http://www.gutenberg.org/ebooks/18328
